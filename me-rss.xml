@@ -5,6 +5,13 @@
     <description>커스텀 런처 공지 피드</description>
 
     <item>
+      <title>런처 업데이트 1.0.5</title>
+      <pubDate>Sun, 5 May 2026 03:18:00 +0900</pubDate>
+      <description>런처 1.0.5 버전이 출시되었습니다. 로그인 방식을 변경했습니다.</description>
+      <dc:creator>관리자</dc:creator>
+    </item>
+    
+    <item>
       <title>런처 업데이트 1.0.4</title>
       <pubDate>Tue, 18 Nov 2025 03:18:00 +0900</pubDate>
       <description>런처 1.0.4 버전이 출시되었습니다. 서버의 아이콘과 배경이미지를 컨셉에 맞게 변경했습니다.</description>
